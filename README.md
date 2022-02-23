@@ -2,10 +2,10 @@
   whoami:
 </h3>
 <p>
-  𝙾𝚏𝚏𝚎𝚗𝚜𝚒𝚟𝚎 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚎𝚛, 𝙱𝚞𝚐 𝙱𝚘𝚞𝚗𝚝𝚢 𝙷𝚞𝚗𝚝𝚎𝚛, 𝙷𝚊𝚌𝚔𝚎𝚛, 𝙼𝚊𝚕𝚠𝚊𝚛𝚎 𝚆𝚑𝚒𝚜𝚙𝚎𝚛𝚎𝚛, 𝙲𝚢𝚋𝚎𝚛 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙰𝚍𝚟𝚒𝚜𝚘𝚛, 𝚂𝚙𝚎𝚊𝚔𝚎𝚛, 𝙷𝚊𝚌𝚔𝚏𝚕𝚞𝚎𝚗𝚌𝚎𝚛, 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚠𝚘𝚛𝚍𝚜 𝚝𝚑𝚊𝚝 𝚎𝚗𝚍 𝚠𝚒𝚝𝚑 -𝚎𝚛.
+  Offensive Security Researcher, Bug Bounty Hunter, Hacker, Malware Whisperer, Cyber Security Advisor, Speaker, Hackfluencer and other words that end with -er.
 </p>
 <p>
-  𝙽𝚘𝚝 𝚊 𝚠𝚎𝚋 𝚊𝚙𝚙 𝚎𝚡𝚘𝚛𝚌𝚒𝚜𝚝, 𝚓𝚞𝚜𝚝 𝚝𝚑𝚎 𝚘𝚗𝚎 𝚠𝚑𝚘 𝚙𝚘𝚜𝚜𝚎𝚜𝚜𝚎𝚜 𝚝𝚑𝚎𝚖.
+  Not a web app exorcist, just the one who possesses them.
 </p>
 <img src="https://c.tenor.com/6IoEZ4qrt1YAAAAC/asta-demon.gif" alt="cover" />
 
