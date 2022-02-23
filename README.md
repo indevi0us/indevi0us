@@ -12,17 +12,36 @@
 <h3>
   CVE(s):
 </h3>
-<p>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-27662">CVE-2020-27662</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-27663">CVE-2020-27663</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-21255">CVE-2021-21255</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-21324">CVE-2021-21324</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-21326">CVE-2021-21326</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-29436">CVE-2021-29436</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41139">CVE-2021-41139</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41156">CVE-2021-41156</a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-43851">CVE-2021-43851</a>
-</p>
+<ul>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-27662">CVE-2020-27662
+    </a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2020-27663">CVE-2020-27663</a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-21255">CVE-2021-21255</a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-21324">CVE-2021-21324</a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-21326">CVE-2021-21326</a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-29436">CVE-2021-29436</a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41139">CVE-2021-41139</a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-41156">CVE-2021-41156</a>
+  </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-43851">CVE-2021-43851</a>
+  </li>
+</ul>
 
 <h3>
   statistics:
