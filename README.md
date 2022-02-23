@@ -1,5 +1,5 @@
 <h3 id="whoami">
-  whoami:
+  indevi0us@Nemesis:~$ whoami
 </h3>
 <p>
   Offensive Security Researcher, Bug Bounty Hunter, Hacker, Malware Whisperer, Cyber Security Advisor, Speaker, Hackfluencer and other words that end with -er.
@@ -44,7 +44,7 @@
 </ul>
 
 <h3>
-  statistics:
+  Statistics:
 </h3>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=indevi0us&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="indevi0us's GitHub Stats">
@@ -52,7 +52,7 @@
 </p>
 
 <h3>
-  weapons:
+  My Weapons:
 </h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -70,7 +70,7 @@
 </p>
 
 <h3>
-  social networks:
+  Social Networks:
 </h3>
 <p align="left">
   <a href="https://www.twitch.tv/indevi0usTV" target="blank">
@@ -92,7 +92,7 @@
 
 
 <h3>
-  badges:
+  Badges:
 </h3>
 <p align="left">
   <img src="https://hckrt.com/assets/custom/img/badges/hackrate-Newcomer.png" width="100" height="100">
