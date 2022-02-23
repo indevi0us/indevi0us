@@ -48,7 +48,6 @@
 </h3>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=indevi0us&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="indevi0us's GitHub Stats">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=indevi0us&count_private=true&theme=github_dark" alt="indevi0us" />
   <img align="left" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=indevi0us&count_private=true&theme=github_dark" alt="indevi0us" />
 </p>
 
