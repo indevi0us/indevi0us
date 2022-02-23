@@ -8,12 +8,12 @@
 <h3>
   badges:
 </h3>
-<p>
-<img align="left" src="https://hckrt.com/assets/custom/img/badges/hackrate-Newcomer.png" width="100" height="100">
-<img align="left" src="https://hckrt.com/assets/custom/img/badges/hackrate-Hack_Everything.png" width="100" height="100">
-<img align="left" src="https://hckrt.com/assets/custom/img/badges/hackrate-Inviter.png" width="100" height="100">
-<img align="left" src="https://hckrt.com/assets/custom/img/badges/hackrate-Bounty_Hunter.png" width="100" height="100">
-<img align="left" src="https://hckrt.com/assets/custom/img/badges/hackrate-Monster.png" width="100" height="100">
+<p align="left">
+<img src="https://hckrt.com/assets/custom/img/badges/hackrate-Newcomer.png" width="100" height="100">
+<img src="https://hckrt.com/assets/custom/img/badges/hackrate-Hack_Everything.png" width="100" height="100">
+<img src="https://hckrt.com/assets/custom/img/badges/hackrate-Inviter.png" width="100" height="100">
+<img src="https://hckrt.com/assets/custom/img/badges/hackrate-Bounty_Hunter.png" width="100" height="100">
+<img src="https://hckrt.com/assets/custom/img/badges/hackrate-Monster.png" width="100" height="100">
 </p>
 
 <h3>
