@@ -41,8 +41,13 @@
   <li>
     <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-43851">CVE-2021-43851</a>
   </li>
+  <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-43851">CVE-2022-24707</a>
+  </li>
+    <li>
+    <a href="https://nvd.nist.gov/vuln/detail/CVE-2021-43851">CVE-2022-24708</a>
+  </li>
 </ul>
-
 <h3>
   Statistics:
 </h3>
