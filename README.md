@@ -90,9 +90,6 @@
   <a href="https://linkedin.com/in/samuele-gugliotta" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuele-gugliotta" height="25" width="25" />
   </a>
-  <a href="https://www.youtube.com/c/indevi0us" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="indevi0us" height="25" width="25" />
-  </a>
 </p>
 
 
