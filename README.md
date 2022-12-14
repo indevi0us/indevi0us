@@ -1,10 +1,21 @@
-## 🔎 Whoami:
-`> indevi0us@Nemesis:~$ whoami`
-Offensive Security Researcher, Bug Bounty Hunter, Hacker, Malware Whisperer, Cyber Security Advisor, Speaker, Hackfluencer and other words that end with -er.
+## 🔎 𝚒𝚗𝚍𝚎𝚟𝚒𝟶𝚞𝚜@𝙽𝚎𝚖𝚎𝚜𝚒𝚜:~$ 𝚠𝚑𝚘𝚊𝚖𝚒:
+Offensive Security Researcher, Bug Bounty Hunter, Hacker, Malware Whisperer, OWASP Member, Hackfluencer, Speaker, and other words that end with -er.
 
-**Not a web app exorcist, just the one who possesses them.**
+![](black_cat_banner.gif)
 
-![cat](https://tenor.com/y2uP.gif)
+**ɴᴏᴛ ᴀ ᴡᴇʙ ᴀᴘᴘ ᴇxᴏʀᴄɪꜱᴛ, ᴊᴜꜱᴛ ᴛʜᴇ ᴏɴᴇ ᴡʜᴏ ᴘᴏꜱꜱᴇꜱꜱᴇꜱ ᴛʜᴇᴍ.**
+
+## 🏆 Achievements:
+* [1st Hacker in Hackrate's Global Leaderbord](https://hckrt.com/Home/Leaderboard);
+* [Top Contributor in Security Research for Teclib's GLPI 9.5.4 release](https://www.teclib-edition.com/en/glpi-9-5-4/);
+* [Interviewed by Hackrate](https://elite.hckrt.com/hackers/indevi0us.html);
+* [Interviewed by MyHackerTech (MHT)](https://myhackertech.com/blogs/news/interview-with-samuele-gugliotta-aka-0x3qt-or-xeqt).
+
+## 📄 Public Writeups:
+* [Full Account Takeover of ANY user via Insecure Direct Object Reference (IDOR) on reset password functionality](https://blog.hckrt.com/blog/thisclosed_1/)
+
+## 🌐 Social Networks:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-gugliotta) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/indevi0us) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indevi0us) [![Reddit](https://img.shields.io/badge/Twitch-6441a5?logo=twitch&logoColor=white)](https://www.twitch.tv/indevi0usTV) [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?logo=instagram)](https://instagram.com/indevi0us)
 
 ## 🔊 Published CVEs:
 |    Date    |       CVE ID       | Description  |
@@ -20,7 +31,3 @@ Offensive Security Researcher, Bug Bounty Hunter, Hacker, Malware Whisperer, Cyb
 |12/21/2021|[CVE-2021-43851](https://nvd.nist.gov/vuln/detail/CVE-2021-43851)|Anuko Time Tracker is an open source, web-based time tracking application written in PHP. SQL injection vulnerability exist in multiple files in Time Tracker version 1.19.33.5606 and prior due to not properly checking of the "group" and "status" parameters in POST requests. Group parameter is posted along when navigating between organizational subgroups (groups.php file). Status parameter is used in multiple files to change a status of an entity such as making a project, task, or user inactive. This issue has been patched in version 1.19.33.5607. An upgrade is highly recommended. If an upgrade is not practical, introduce ttValidStatus function as in the latest version and start using it user input check blocks wherever status field is used. For groups.php fix, introduce ttValidInteger function as in the latest version and use it in the access check block in the file.|
 |02/24/2022|[CVE-2022-24707](https://nvd.nist.gov/vuln/detail/CVE-2022-24707)|Anuko Time Tracker is an open source, web-based time tracking application written in PHP. UNION SQL injection and time-based blind injection vulnerabilities existed in Time Tracker Puncher plugin in versions of anuko timetracker prior to 1.20.0.5642. This was happening because the Puncher plugin was reusing code from other places and was relying on an unsanitized date parameter in POST requests. Because the parameter was not checked, it was possible to craft POST requests with malicious SQL for Time Tracker database. This issue has been resolved in in version 1.20.0.5642. Users unable to upgrade are advised to add their own checks to input.|
 |02/24/2022|[CVE-2022-24708](https://nvd.nist.gov/vuln/detail/CVE-2022-24708)|Anuko Time Tracker is an open source, web-based time tracking application written in PHP. ttUser.class.php in Time Tracker versions prior to 1.20.0.5646 was not escaping primary group name for display. Because of that, it was possible for a logged in user to modify primary group name with elements of JavaScript. Such script could then be executed in user browser on subsequent requests on pages where primary group name was displayed. This is vulnerability has been fixed in version 1.20.0.5646. Users who are unable to upgrade may modify ttUser.class.php to use an additional call to htmlspecialchars when printing group name.|
-
-
-## 🌐 Social Networks:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-gugliotta) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/indevi0us) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indevi0us) [![Reddit](https://img.shields.io/badge/Twitch-6441a5?logo=twitch&logoColor=white)](https://www.twitch.tv/indevi0usTV) [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?logo=instagram)](https://instagram.com/indevi0us)
