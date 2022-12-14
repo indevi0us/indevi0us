@@ -12,7 +12,7 @@ Offensive Security Researcher, Bug Bounty Hunter, Hacker, Malware Whisperer, OWA
 * [Interviewed by MyHackerTech (MHT)](https://myhackertech.com/blogs/news/interview-with-samuele-gugliotta-aka-0x3qt-or-xeqt).
 
 ## 📄 Public Writeups:
-* [Full Account Takeover of ANY user via Insecure Direct Object Reference (IDOR) on reset password functionality](https://blog.hckrt.com/blog/thisclosed_1/)
+* [Full Account Takeover of ANY user via Insecure Direct Object Reference (IDOR) on reset password functionality](https://blog.hckrt.com/blog/thisclosed_1/).
 
 ## 🌐 Social Networks:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-gugliotta) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/indevi0us) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indevi0us) [![Reddit](https://img.shields.io/badge/Twitch-6441a5?logo=twitch&logoColor=white)](https://www.twitch.tv/indevi0usTV) [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?logo=instagram)](https://instagram.com/indevi0us)
