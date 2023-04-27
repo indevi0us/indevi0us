@@ -16,7 +16,7 @@ Offensive Security Researcher, Bug Bounty Hunter, Hacker, Malware Whisperer, Hac
 * [PostgreSQL Database Exfiltration through the abuse of PostgREST requests](https://blog.hckrt.com/blog/thisclosed_2/).
 
 ## 🌐 Social Networks:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-gugliotta) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/indevi0us) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indevi0us) [![Reddit](https://img.shields.io/badge/Twitch-6441a5?logo=twitch&logoColor=white)](https://www.twitch.tv/indevi0usTV) [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?logo=instagram)](https://instagram.com/indevi0us)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuele-gugliotta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indevi0us) [![Reddit](https://img.shields.io/badge/Twitch-6441a5?logo=twitch&logoColor=white)](https://www.twitch.tv/indevi0usTV) [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?logo=instagram)](https://instagram.com/indevi0us)
 
 ## 🔊 Published CVEs:
 |    Date    |       CVE ID       | Description  |
